@@ -1,0 +1,253 @@
+C:\Users\osik\Desktop\13-02-2017 give University management Project\UniversityManagementSoftware\UniversityManagementSoftware\bin\UniversityManagementSoftware.dll.config
+C:\Users\osik\Desktop\13-02-2017 give University management Project\UniversityManagementSoftware\UniversityManagementSoftware\bin\UniversityManagementSoftware.dll
+C:\Users\osik\Desktop\13-02-2017 give University management Project\UniversityManagementSoftware\UniversityManagementSoftware\bin\UniversityManagementSoftware.pdb
+C:\Users\osik\Desktop\13-02-2017 give University management Project\UniversityManagementSoftware\UniversityManagementSoftware\bin\Antlr3.Runtime.dll
+C:\Users\osik\Desktop\13-02-2017 give University management Project\UniversityManagementSoftware\UniversityManagementSoftware\bin\EntityFramework.dll
+C:\Users\osik\Desktop\13-02-2017 give University management Project\UniversityManagementSoftware\UniversityManagementSoftware\bin\EntityFramework.SqlServer.dll
+C:\Users\osik\Desktop\13-02-2017 give University management Project\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\osik\Desktop\13-02-2017 give University management Project\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\osik\Desktop\13-02-2017 give University management Project\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\osik\Desktop\13-02-2017 give University management Project\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.Owin.dll
+C:\Users\osik\Desktop\13-02-2017 give University management Project\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\osik\Desktop\13-02-2017 give University management Project\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\osik\Desktop\13-02-2017 give University management Project\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.Owin.Security.dll
+C:\Users\osik\Desktop\13-02-2017 give University management Project\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\osik\Desktop\13-02-2017 give University management Project\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\osik\Desktop\13-02-2017 give University management Project\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\osik\Desktop\13-02-2017 give University management Project\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\osik\Desktop\13-02-2017 give University management Project\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\osik\Desktop\13-02-2017 give University management Project\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\osik\Desktop\13-02-2017 give University management Project\UniversityManagementSoftware\UniversityManagementSoftware\bin\Newtonsoft.Json.dll
+C:\Users\osik\Desktop\13-02-2017 give University management Project\UniversityManagementSoftware\UniversityManagementSoftware\bin\Owin.dll
+C:\Users\osik\Desktop\13-02-2017 give University management Project\UniversityManagementSoftware\UniversityManagementSoftware\bin\System.Web.Helpers.dll
+C:\Users\osik\Desktop\13-02-2017 give University management Project\UniversityManagementSoftware\UniversityManagementSoftware\bin\System.Web.Mvc.dll
+C:\Users\osik\Desktop\13-02-2017 give University management Project\UniversityManagementSoftware\UniversityManagementSoftware\bin\System.Web.Optimization.dll
+C:\Users\osik\Desktop\13-02-2017 give University management Project\UniversityManagementSoftware\UniversityManagementSoftware\bin\System.Web.Razor.dll
+C:\Users\osik\Desktop\13-02-2017 give University management Project\UniversityManagementSoftware\UniversityManagementSoftware\bin\System.Web.WebPages.Deployment.dll
+C:\Users\osik\Desktop\13-02-2017 give University management Project\UniversityManagementSoftware\UniversityManagementSoftware\bin\System.Web.WebPages.dll
+C:\Users\osik\Desktop\13-02-2017 give University management Project\UniversityManagementSoftware\UniversityManagementSoftware\bin\System.Web.WebPages.Razor.dll
+C:\Users\osik\Desktop\13-02-2017 give University management Project\UniversityManagementSoftware\UniversityManagementSoftware\bin\WebGrease.dll
+C:\Users\osik\Desktop\13-02-2017 give University management Project\UniversityManagementSoftware\UniversityManagementSoftware\bin\EntityFramework.xml
+C:\Users\osik\Desktop\13-02-2017 give University management Project\UniversityManagementSoftware\UniversityManagementSoftware\bin\EntityFramework.SqlServer.xml
+C:\Users\osik\Desktop\13-02-2017 give University management Project\UniversityManagementSoftware\UniversityManagementSoftware\bin\System.Web.Helpers.xml
+C:\Users\osik\Desktop\13-02-2017 give University management Project\UniversityManagementSoftware\UniversityManagementSoftware\bin\System.Web.Mvc.xml
+C:\Users\osik\Desktop\13-02-2017 give University management Project\UniversityManagementSoftware\UniversityManagementSoftware\bin\System.Web.Optimization.xml
+C:\Users\osik\Desktop\13-02-2017 give University management Project\UniversityManagementSoftware\UniversityManagementSoftware\bin\System.Web.Razor.xml
+C:\Users\osik\Desktop\13-02-2017 give University management Project\UniversityManagementSoftware\UniversityManagementSoftware\bin\System.Web.WebPages.xml
+C:\Users\osik\Desktop\13-02-2017 give University management Project\UniversityManagementSoftware\UniversityManagementSoftware\bin\System.Web.WebPages.Deployment.xml
+C:\Users\osik\Desktop\13-02-2017 give University management Project\UniversityManagementSoftware\UniversityManagementSoftware\bin\System.Web.WebPages.Razor.xml
+C:\Users\osik\Desktop\13-02-2017 give University management Project\UniversityManagementSoftware\UniversityManagementSoftware\bin\Newtonsoft.Json.xml
+C:\Users\osik\Desktop\13-02-2017 give University management Project\UniversityManagementSoftware\UniversityManagementSoftware\bin\Antlr3.Runtime.pdb
+C:\Users\osik\Desktop\13-02-2017 give University management Project\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\osik\Desktop\13-02-2017 give University management Project\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\osik\Desktop\13-02-2017 give University management Project\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\osik\Desktop\13-02-2017 give University management Project\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.Owin.xml
+C:\Users\osik\Desktop\13-02-2017 give University management Project\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\osik\Desktop\13-02-2017 give University management Project\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.Owin.Security.xml
+C:\Users\osik\Desktop\13-02-2017 give University management Project\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\osik\Desktop\13-02-2017 give University management Project\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\osik\Desktop\13-02-2017 give University management Project\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\osik\Desktop\13-02-2017 give University management Project\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\osik\Desktop\13-02-2017 give University management Project\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\osik\Desktop\13-02-2017 give University management Project\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\osik\Desktop\13-02-2017 give University management Project\UniversityManagementSoftware\UniversityManagementSoftware\obj\Debug\UniversityManagementSoftware.csprojResolveAssemblyReference.cache
+C:\Users\osik\Desktop\13-02-2017 give University management Project\UniversityManagementSoftware\UniversityManagementSoftware\obj\Debug\UniversityManagementSoftware.dll
+C:\Users\osik\Desktop\13-02-2017 give University management Project\UniversityManagementSoftware\UniversityManagementSoftware\obj\Debug\UniversityManagementSoftware.pdb
+C:\Users\osik\Desktop\13-02-2017 give University management Project\UniversityManagementSoftware\UniversityManagementSoftware\obj\Debug\UniversityManagementSoftware.Migrations.inital_DataBase.resources
+C:\Users\osik\Desktop\13-02-2017 give University management Project\UniversityManagementSoftware\UniversityManagementSoftware\obj\Debug\UniversityManagementSoftware.csproj.GenerateResource.Cache
+C:\Users\osik\Desktop\13-02-2017 give University management Project\UniversityManagementSoftware\UniversityManagementSoftware\obj\Debug\UniversityManagementSoftware.Migrations.Department_modifiy.resources
+I:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\UniversityManagementSoftware.dll.config
+I:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\UniversityManagementSoftware.dll
+I:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\UniversityManagementSoftware.pdb
+I:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Antlr3.Runtime.dll
+I:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\EntityFramework.dll
+I:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\EntityFramework.SqlServer.dll
+I:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.AspNet.Identity.Core.dll
+I:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+I:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.AspNet.Identity.Owin.dll
+I:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.Owin.dll
+I:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.Owin.Host.SystemWeb.dll
+I:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.Owin.Security.Cookies.dll
+I:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.Owin.Security.dll
+I:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.Owin.Security.Facebook.dll
+I:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.Owin.Security.Google.dll
+I:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+I:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.Owin.Security.OAuth.dll
+I:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.Owin.Security.Twitter.dll
+I:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.Web.Infrastructure.dll
+I:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Newtonsoft.Json.dll
+I:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Owin.dll
+I:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\System.Web.Helpers.dll
+I:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\System.Web.Mvc.dll
+I:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\System.Web.Optimization.dll
+I:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\System.Web.Razor.dll
+I:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\System.Web.WebPages.Deployment.dll
+I:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\System.Web.WebPages.dll
+I:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\System.Web.WebPages.Razor.dll
+I:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\WebGrease.dll
+I:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\EntityFramework.xml
+I:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\EntityFramework.SqlServer.xml
+I:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\System.Web.Helpers.xml
+I:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\System.Web.Mvc.xml
+I:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\System.Web.Optimization.xml
+I:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\System.Web.Razor.xml
+I:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\System.Web.WebPages.xml
+I:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\System.Web.WebPages.Deployment.xml
+I:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\System.Web.WebPages.Razor.xml
+I:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Newtonsoft.Json.xml
+I:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Antlr3.Runtime.pdb
+I:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.AspNet.Identity.Core.xml
+I:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.AspNet.Identity.Owin.xml
+I:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+I:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.Owin.xml
+I:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.Owin.Host.SystemWeb.xml
+I:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.Owin.Security.xml
+I:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.Owin.Security.Facebook.xml
+I:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.Owin.Security.Cookies.xml
+I:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.Owin.Security.OAuth.xml
+I:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.Owin.Security.Google.xml
+I:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.Owin.Security.Twitter.xml
+I:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+I:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\obj\Debug\UniversityManagementSoftware.dll
+I:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\obj\Debug\UniversityManagementSoftware.pdb
+J:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\UniversityManagementSoftware.dll.config
+J:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\UniversityManagementSoftware.dll
+J:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\UniversityManagementSoftware.pdb
+J:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Antlr3.Runtime.dll
+J:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\EntityFramework.dll
+J:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\EntityFramework.SqlServer.dll
+J:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.AspNet.Identity.Core.dll
+J:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+J:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.AspNet.Identity.Owin.dll
+J:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.Owin.dll
+J:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.Owin.Host.SystemWeb.dll
+J:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.Owin.Security.Cookies.dll
+J:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.Owin.Security.dll
+J:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.Owin.Security.Facebook.dll
+J:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.Owin.Security.Google.dll
+J:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+J:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.Owin.Security.OAuth.dll
+J:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.Owin.Security.Twitter.dll
+J:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.Web.Infrastructure.dll
+J:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Newtonsoft.Json.dll
+J:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Owin.dll
+J:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\System.Web.Helpers.dll
+J:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\System.Web.Mvc.dll
+J:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\System.Web.Optimization.dll
+J:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\System.Web.Razor.dll
+J:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\System.Web.WebPages.Deployment.dll
+J:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\System.Web.WebPages.dll
+J:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\System.Web.WebPages.Razor.dll
+J:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\WebGrease.dll
+J:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\EntityFramework.xml
+J:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\EntityFramework.SqlServer.xml
+J:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\System.Web.Helpers.xml
+J:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\System.Web.Mvc.xml
+J:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\System.Web.Optimization.xml
+J:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\System.Web.Razor.xml
+J:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\System.Web.WebPages.xml
+J:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\System.Web.WebPages.Deployment.xml
+J:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\System.Web.WebPages.Razor.xml
+J:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Newtonsoft.Json.xml
+J:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Antlr3.Runtime.pdb
+J:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.AspNet.Identity.Core.xml
+J:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.AspNet.Identity.Owin.xml
+J:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+J:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.Owin.xml
+J:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.Owin.Host.SystemWeb.xml
+J:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.Owin.Security.xml
+J:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.Owin.Security.Facebook.xml
+J:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.Owin.Security.Cookies.xml
+J:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.Owin.Security.OAuth.xml
+J:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.Owin.Security.Google.xml
+J:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.Owin.Security.Twitter.xml
+J:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+J:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\obj\Debug\UniversityManagementSoftware.dll
+J:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\obj\Debug\UniversityManagementSoftware.pdb
+I:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\obj\Debug\UniversityManagementSoftware.csproj.GenerateResource.Cache
+J:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\obj\Debug\UniversityManagementSoftware.Migrations.change_Teacher.resources
+J:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\obj\Debug\UniversityManagementSoftware.csproj.GenerateResource.Cache
+I:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\obj\Debug\UniversityManagementSoftware.Migrations.change_Teacher.resources
+I:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\obj\Debug\UniversityManagementSoftware.Migrations.Create_CourseAssintoTeacher.resources
+J:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\obj\Debug\UniversityManagementSoftware.csprojResolveAssemblyReference.cache
+J:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\obj\Debug\UniversityManagementSoftware.Migrations.Create_CourseAssintoTeacher.resources
+J:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\obj\Debug\UniversityManagementSoftware.Migrations.CoruseAssinToTeacher_table_changes.resources
+I:\13-02-2017 give University management Project\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\UniversityManagementSoftware.dll.config
+I:\13-02-2017 give University management Project\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\UniversityManagementSoftware.dll
+I:\13-02-2017 give University management Project\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\UniversityManagementSoftware.pdb
+I:\13-02-2017 give University management Project\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Antlr3.Runtime.dll
+I:\13-02-2017 give University management Project\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\EntityFramework.dll
+I:\13-02-2017 give University management Project\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\EntityFramework.SqlServer.dll
+I:\13-02-2017 give University management Project\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.AspNet.Identity.Core.dll
+I:\13-02-2017 give University management Project\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+I:\13-02-2017 give University management Project\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.AspNet.Identity.Owin.dll
+I:\13-02-2017 give University management Project\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.Owin.dll
+I:\13-02-2017 give University management Project\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.Owin.Host.SystemWeb.dll
+I:\13-02-2017 give University management Project\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.Owin.Security.Cookies.dll
+I:\13-02-2017 give University management Project\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.Owin.Security.dll
+I:\13-02-2017 give University management Project\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.Owin.Security.Facebook.dll
+I:\13-02-2017 give University management Project\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.Owin.Security.Google.dll
+I:\13-02-2017 give University management Project\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+I:\13-02-2017 give University management Project\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.Owin.Security.OAuth.dll
+I:\13-02-2017 give University management Project\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.Owin.Security.Twitter.dll
+I:\13-02-2017 give University management Project\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.Web.Infrastructure.dll
+I:\13-02-2017 give University management Project\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Newtonsoft.Json.dll
+I:\13-02-2017 give University management Project\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Owin.dll
+I:\13-02-2017 give University management Project\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\System.Web.Helpers.dll
+I:\13-02-2017 give University management Project\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\System.Web.Mvc.dll
+I:\13-02-2017 give University management Project\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\System.Web.Optimization.dll
+I:\13-02-2017 give University management Project\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\System.Web.Razor.dll
+I:\13-02-2017 give University management Project\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\System.Web.WebPages.Deployment.dll
+I:\13-02-2017 give University management Project\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\System.Web.WebPages.dll
+I:\13-02-2017 give University management Project\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\System.Web.WebPages.Razor.dll
+I:\13-02-2017 give University management Project\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\WebGrease.dll
+I:\13-02-2017 give University management Project\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\EntityFramework.xml
+I:\13-02-2017 give University management Project\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\EntityFramework.SqlServer.xml
+I:\13-02-2017 give University management Project\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\System.Web.Helpers.xml
+I:\13-02-2017 give University management Project\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\System.Web.Mvc.xml
+I:\13-02-2017 give University management Project\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\System.Web.Optimization.xml
+I:\13-02-2017 give University management Project\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\System.Web.Razor.xml
+I:\13-02-2017 give University management Project\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\System.Web.WebPages.xml
+I:\13-02-2017 give University management Project\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\System.Web.WebPages.Deployment.xml
+I:\13-02-2017 give University management Project\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\System.Web.WebPages.Razor.xml
+I:\13-02-2017 give University management Project\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Newtonsoft.Json.xml
+I:\13-02-2017 give University management Project\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Antlr3.Runtime.pdb
+I:\13-02-2017 give University management Project\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.AspNet.Identity.Core.xml
+I:\13-02-2017 give University management Project\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.AspNet.Identity.Owin.xml
+I:\13-02-2017 give University management Project\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+I:\13-02-2017 give University management Project\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.Owin.xml
+I:\13-02-2017 give University management Project\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.Owin.Host.SystemWeb.xml
+I:\13-02-2017 give University management Project\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.Owin.Security.xml
+I:\13-02-2017 give University management Project\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.Owin.Security.Facebook.xml
+I:\13-02-2017 give University management Project\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.Owin.Security.Cookies.xml
+I:\13-02-2017 give University management Project\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.Owin.Security.OAuth.xml
+I:\13-02-2017 give University management Project\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.Owin.Security.Google.xml
+I:\13-02-2017 give University management Project\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.Owin.Security.Twitter.xml
+I:\13-02-2017 give University management Project\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+I:\13-02-2017 give University management Project\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\obj\Debug\UniversityManagementSoftware.Migrations.change_Teacher.resources
+I:\13-02-2017 give University management Project\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\obj\Debug\UniversityManagementSoftware.Migrations.Create_CourseAssintoTeacher.resources
+I:\13-02-2017 give University management Project\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\obj\Debug\UniversityManagementSoftware.Migrations.CoruseAssinToTeacher_table_changes.resources
+I:\13-02-2017 give University management Project\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\obj\Debug\UniversityManagementSoftware.csproj.GenerateResource.Cache
+I:\13-02-2017 give University management Project\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\obj\Debug\UniversityManagementSoftware.dll
+I:\13-02-2017 give University management Project\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\obj\Debug\UniversityManagementSoftware.pdb
+I:\13-02-2017 give University management Project\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\obj\Debug\UniversityManagementSoftware.Migrations.Create_RegisterStudent.resources
+I:\13-02-2017 give University management Project\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\obj\Debug\UniversityManagementSoftware.csprojResolveAssemblyReference.cache
+I:\13-02-2017 give University management Project\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\obj\Debug\UniversityManagementSoftware.Migrations.Create_AllocateClassRoom.resources
+J:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\obj\Debug\UniversityManagementSoftware.Migrations.Create_RegisterStudent.resources
+J:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\obj\Debug\UniversityManagementSoftware.Migrations.Create_AllocateClassRoom.resources
+J:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\obj\Debug\UniversityManagementSoftware.Migrations.RegisterStudent_Update.resources
+J:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\obj\Debug\UniversityManagementSoftware.Migrations.allocateClassRoom_update.resources
+J:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\obj\Debug\UniversityManagementSoftware.Migrations.allocateClassRoom_update2.resources
+I:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\obj\Debug\UniversityManagementSoftware.Migrations.CoruseAssinToTeacher_table_changes.resources
+I:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\obj\Debug\UniversityManagementSoftware.Migrations.Create_RegisterStudent.resources
+I:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\obj\Debug\UniversityManagementSoftware.Migrations.Create_AllocateClassRoom.resources
+I:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\obj\Debug\UniversityManagementSoftware.Migrations.RegisterStudent_Update.resources
+I:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\obj\Debug\UniversityManagementSoftware.Migrations.allocateClassRoom_update.resources
+I:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\obj\Debug\UniversityManagementSoftware.Migrations.allocateClassRoom_update2.resources
+I:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\obj\Debug\UniversityManagementSoftware.Migrations.EnrollCourse.resources
+I:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\obj\Debug\UniversityManagementSoftware.Migrations.Create_savestudentresult.resources
+J:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\obj\Debug\UniversityManagementSoftware.Migrations.EnrollCourse.resources
+J:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\obj\Debug\UniversityManagementSoftware.Migrations.Create_savestudentresult.resources
+I:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\obj\Debug\UniversityManagementSoftware.Migrations.createCourseupdate.resources
+I:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\obj\Debug\UniversityManagementSoftware.csprojResolveAssemblyReference.cache
+I:\13-02-2017 give University management Project\udate\UniversityManagementSoftware\UniversityManagementSoftware\obj\Debug\UniversityManagementSoftware.Migrations.createAllocateclassroom.resources

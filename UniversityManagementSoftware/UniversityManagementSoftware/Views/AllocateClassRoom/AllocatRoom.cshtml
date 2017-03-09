@@ -1,0 +1,33 @@
+﻿
+@{
+    ViewBag.Title = "AllocatRoom";
+}
+
+<div class="container">
+    <div style="padding-top:40px; padding-bottom:40px;" class="form-group">
+        <label class="control-label col-md-2">Department</label>
+        <div class="col-md-10">
+            @if (ViewBag.Deparment != null)
+            {
+                @Html.DropDownListFor(x => x.DepartmentName, new SelectList(ViewBag.Deparment, "Id", "DepartmentName"), "Select Department", new { @class = "" })
+            }
+
+        </div>
+    </div>
+    <table class="table">
+        <tr>
+            <th>Code</th>
+            <th>Name/Title</th>
+            <th>Semester</th>
+            <th>Assignded To</th>
+        </tr>
+        <tr>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+
+        </tr>
+    </table>
+</div>
+

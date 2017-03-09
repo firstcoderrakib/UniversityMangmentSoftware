@@ -1,0 +1,38 @@
+﻿
+@model IEnumerable<UniversityManagementSoftware.Models.Department>
+@{
+    ViewBag.Title = "Index";
+}
+
+<div class="container">
+    <table class="table">
+           
+                 <tr>
+                     <th>
+                       Department name
+                     </th>
+                     <th>
+                         Department code
+                     </th>
+                 </tr>
+            
+             @foreach (var item in Model)
+             {
+               
+                     <tr>
+                         <td>
+                             @Html.DisplayFor(modelItem => item.DepartmentName)
+                         </td>
+                         <td>
+                             @Html.DisplayFor(modelItem => item.DepartmentCode)
+                         </td>
+                     </tr>
+                 
+             }
+
+         </table>
+
+    <div class="col-md-6"></div>
+    <div class="col-md-6"></div>
+</div>
+
